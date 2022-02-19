@@ -1,2 +1,2 @@
 # VUE-UlfaDamayantiAriss
-Project ini di buat untuk memenuhi tugas Altera/id
+Project ini di buat untuk memenuhi tugas Altera.id
