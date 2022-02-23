@@ -1,0 +1,20 @@
+ RESUME Section 1
+
+ Dalam materi ini mempelajari :
+  1.Version Control
+  2.Branch Mangement 
+     
+  Version Control system
+   Version Control system adalah system yang di gunakan dalam mengatur berbagai versi atau melacak perubahan pada source kode program 
+   Proses mengatur berbagai versi atau melacak perubahan pada source kode program yang disebut versioning.
+   Dengan adanya Version Control System dapat melakukan pelacakan dan mengetahui setiap perubahan sehingga kesalahan dapat ditemukan,misalnya pada proses revisi.  
+     Ada tiga perkembangan tipe Version Control
+      1.Single user version control system (SCCS)
+      2.Centralized version control system (CVS)
+      3.Distributed version control system (GIT)
+  Branch 
+  Pencadangan dalam pembuatan github,yang berfungsi untuk melindungi main project kita sendiri.
+ 
+   
+
+   
